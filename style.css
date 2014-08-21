@@ -1,10 +1,19 @@
 /* replace "readers" */
-div.titlebox span.word {
-    display: none
-    }
-div.titlebox span.number:after {
-    content: " Turkers"
-    }
+ /*Subscribers*/
+ .subscribers .word {
+ display: none;
+ }  
+ .subscribers .number::after {
+ content: " Subscribed Turkers";
+ }
+
+ /*users here now*/
+ .users-online .word {
+ display: none;
+ }
+ .users-online .number::after {
+ content: " Turkers here now";
+ }
 /*Flair*/
 .flair {
     border: none !important;
