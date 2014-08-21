@@ -16,16 +16,6 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
-.flair {
-    border: none !important;
-    display: inline-block;
-    height: 14px;
-    margin-right: 3px;
-    padding: 0;
-    text-indent: -9999px !important;
-    vertical-align: top;
-    width: 24px
-    }
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
