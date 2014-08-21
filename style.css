@@ -1,0 +1,73 @@
+/* replace "readers" */
+div.titlebox span.word {
+    display: none
+    }
+div.titlebox span.number:after {
+    content: " Turkers"
+    }
+/*Flair*/
+.flair {
+    border: none !important;
+    display: inline-block;
+    height: 14px;
+    margin-right: 3px;
+    padding: 0;
+    text-indent: -9999px !important;
+    vertical-align: top;
+    width: 24px
+    }
+.flair-westindies {
+    background: url(%%WestIndies%%) center left no-repeat !important
+    }
+.flair-srilanka {
+    background: url(%%SriLanka%%) center left no-repeat !important
+    }
+.flair-india {
+    background: url(%%India%%) center left no-repeat !important
+    }
+.flair-canada {
+    background: url(%%Canada%%) center left no-repeat !important
+    }
+.flair-newzealand {
+    background: url(%%NewZealand%%) center left no-repeat !important
+    }
+.flair-bangladesh {
+    background: url(%%Bangladesh%%) center left no-repeat !important
+    }
+.flair-netherlands {
+    background: url(%%Netherlands%%) center left no-repeat !important
+    }
+.flair-zimbabwe {
+    background: url(%%zimbabwe%%) center left no-repeat !important
+    }
+.flair-scotland {
+    background: url(%%scotland%%) center left no-repeat !important
+    }
+.flair-australia {
+    background: url(%%australia%%) center left no-repeat !important
+    }
+.flair-pakistan {
+    background: url(%%pakistan%%) center left no-repeat !important
+    }
+.flair-kenya {
+    background: url(%%kenya%%)center left no-repeat !important
+    }
+.flair-safrica {
+    background: url(%%SouthAfrica%%) center left no-repeat !important
+    }
+.flair-england {
+    background: url(%%england%%) center left no-repeat !important
+    }
+.flair-wales {
+    background: url(%%wales%%) center left no-repeat !important
+    }
+.flair-USA {
+    background: url(%%USA%%) center left no-repeat !important
+    }
+.flair-afghanistan {
+    background: url(%%afghanistan%%) center left no-repeat !important
+    }
+.flair-ireland {
+    background: url(%%ireland%%) center left no-repeat !important
+    }
+/* end flair */
