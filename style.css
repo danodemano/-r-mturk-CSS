@@ -1,19 +1,20 @@
 /* replace "readers" */
- /*Subscribers*/
- .subscribers .word {
- display: none;
- }  
- .subscribers .number::after {
- content: " Subscribed Turkers";
- }
-
- /*users here now*/
- .users-online .word {
- display: none;
- }
- .users-online .number::after {
- content: " Turkers here now";
- }
+/* danodemano edit 20140821 */
+/*Subscribers*/
+.subscribers .word {
+display: none;
+}
+.subscribers .number::after {
+content: " Subscribed Turkers";
+}
+/*users here now*/
+.users-online .word {
+display: none;
+}
+.users-online .number::after {
+content: " Turkers here now";
+}
+/* End danodemano edit 20140821 */
 /*Flair*/
 .flair {
     border: none !important;
