@@ -16,6 +16,29 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
+/* Begin link flair - danodemano 20140822 */
+.linkflair-advice .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-troubleshooting .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-question .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-discussion .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-uncategorized .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-mod .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-image .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+/* End link flair - danodemano 20140822 */
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
