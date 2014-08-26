@@ -17,6 +17,7 @@ content: " Turkers here now";
 /* End danodemano edit 20140821 */
 /*Flair*/
 /* Begin link flair - danodemano 20140825 */
+.linkflairlabel { max-width: 100%; }
 .linkflair-discussion .linkflairlabel {
     background-color: #66ff00;
     font-size: 11px;
