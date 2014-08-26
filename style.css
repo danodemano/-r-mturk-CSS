@@ -18,7 +18,7 @@ content: " Turkers here now";
 /*Flair*/
 /* Begin link flair - danodemano 20140825 */
 .linkflair-discussion .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #66ff00;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -27,7 +27,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-advice .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #66ff00;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -36,7 +36,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-qualhit .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #66ff00;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -45,7 +45,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-scriptssoftware .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #00ffff;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -54,7 +54,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-requestorhelp .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #ff9900;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -63,7 +63,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-requestorannouncement .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #ff9900;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -72,7 +72,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-watercooler .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #cccccc;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -81,7 +81,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-articleblog .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #0000ff;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
@@ -99,7 +99,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-mod .linkflairlabel {
-    background-color: #add5ab;
+    background-color: #ffff00;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
