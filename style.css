@@ -18,35 +18,95 @@ content: " Turkers here now";
 /*Flair*/
 /* Begin link flair - danodemano 20140825 */
 .linkflair-discussion .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-advice .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-qualhit .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-scriptssoftware .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-requestorhelp .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-requestorannouncement .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-watercooler .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-articleblog .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-misc .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 .linkflair-mod .linkflairlabel {
+    background-color: #add5ab;
     font-size: 11px;
-    font-weight: bold;}
+    font-weight: bold;
+    color:#000000;
+    border-color: #000000;
+    border-width: 1px;
+    border-radius: 3px;
+}
 html:lang(di) .link:not(.linkflair-discussion) {
     display: none    }
 html:lang(ad) .link:not(.linkflair-advice) {
