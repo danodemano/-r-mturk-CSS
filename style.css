@@ -16,97 +16,107 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
-/* Begin link flair - danodemano 20140825 */
+/* Begin link flair - danodemano 20140826 */
 .linkflairlabel { max-width: 100%; }
 .linkflair-discussion .linkflairlabel {
-    background-color: #66ff00;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+background-color: #66ff00;
+font:Arial;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-advice .linkflairlabel {
-    background-color: #66ff00;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+background-color: #66ff00;
+font:Arial;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-qualhit .linkflairlabel {
-    background-color: #66ff00;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+background-color: #66ff00;
+font:Arial;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-scriptssoftware .linkflairlabel {
-    background-color: #00ffff;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #00ffff;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-requestorhelp .linkflairlabel {
-    background-color: #ff9900;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #ff9900;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-requestorannouncement .linkflairlabel {
-    background-color: #ff9900;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #ff9900;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-watercooler .linkflairlabel {
-    background-color: #cccccc;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #cccccc;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-articleblog .linkflairlabel {
-    background-color: #0000ff;
-    font-size: 11px;
-    font-weight: bold;
-    color:#ffffff;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #0000ff;
+font-size: 11px;
+font-weight: bold;
+color:#ffffff;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-misc .linkflairlabel {
-    background-color: #fffff;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #ffffff;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 .linkflair-mod .linkflairlabel {
-    background-color: #ff3300;
-    font-size: 11px;
-    font-weight: bold;
-    color:#000000;
-    border-color: #000000;
-    border-width: 1px;
-    border-radius: 3px;
+font:Arial;
+background-color: #ff3300;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
 }
 html:lang(di) .link:not(.linkflair-discussion) {
     display: none    }
@@ -128,7 +138,7 @@ html:lang(mi) .link:not(.linkflair-misc) {
     display: none    }
 html:lang(mo) .link:not(.linkflair-mod) {
     display: none    }
-/* End link flair - danodemano 20140825 */
+/* End link flair - danodemano 20140826 */
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
