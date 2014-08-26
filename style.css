@@ -84,7 +84,7 @@ content: " Turkers here now";
     background-color: #0000ff;
     font-size: 11px;
     font-weight: bold;
-    color:#000000;
+    color:#ffffff;
     border-color: #000000;
     border-width: 1px;
     border-radius: 3px;
@@ -99,7 +99,7 @@ content: " Turkers here now";
     border-radius: 3px;
 }
 .linkflair-mod .linkflairlabel {
-    background-color: #ffff00;
+    background-color: #ff3300;
     font-size: 11px;
     font-weight: bold;
     color:#000000;
