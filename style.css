@@ -16,43 +16,58 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
-/* Begin link flair - danodemano 20140822 */
-.linkflair-advice .linkflairlabel {
-    font-size: 11px;
-    font-weight: bold;}
-.linkflair-troubleshooting .linkflairlabel {
-    font-size: 11px;
-    font-weight: bold;}
-.linkflair-question .linkflairlabel {
-    font-size: 11px;
-    font-weight: bold;}
+/* Begin link flair - danodemano 20140825 */
 .linkflair-discussion .linkflairlabel {
     font-size: 11px;
     font-weight: bold;}
-.linkflair-uncategorized .linkflairlabel {
+.linkflair-advice .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-qualhit .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-scriptssoftware .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-requestorhelp .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-requestorannouncement .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-watercooler .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-articleblog .linkflairlabel {
+    font-size: 11px;
+    font-weight: bold;}
+.linkflair-misc .linkflairlabel {
     font-size: 11px;
     font-weight: bold;}
 .linkflair-mod .linkflairlabel {
     font-size: 11px;
     font-weight: bold;}
-.linkflair-image .linkflairlabel {
-    font-size: 11px;
-    font-weight: bold;}
-html:lang(ad) .link:not(.linkflair-advice) {
-    display: none    }
-html:lang(tr) .link:not(.linkflair-troubleshooting) {
-    display: none    }
-html:lang(qu) .link:not(.linkflair-question) {
-    display: none    }
 html:lang(di) .link:not(.linkflair-discussion) {
     display: none    }
-html:lang(un) .link:not(.linkflair-uncategorized) {
+html:lang(ad) .link:not(.linkflair-advice) {
+    display: none    }
+html:lang(qh) .link:not(.linkflair-qualhit) {
+    display: none    }
+html:lang(ss) .link:not(.linkflair-scriptssoftware) {
+    display: none    }
+html:lang(rh) .link:not(.linkflair-requestorhelp) {
+    display: none    }
+html:lang(ra) .link:not(.linkflair-requestorannouncement) {
+    display: none    }
+html:lang(wc) .link:not(.linkflair-watercooler) {
+    display: none    }
+html:lang(ab) .link:not(.linkflair-articleblog) {
+    display: none    }
+html:lang(mi) .link:not(.linkflair-misc) {
     display: none    }
 html:lang(mo) .link:not(.linkflair-mod) {
     display: none    }
-html:lang(im) .link:not(.linkflair-image) {
-    display: none    }
-/* End link flair - danodemano 20140822 */
+/* End link flair - danodemano 20140825 */
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
