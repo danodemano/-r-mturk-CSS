@@ -16,7 +16,7 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
-/* Begin link flair - danodemano 20140828 */
+/* Begin link flair - danodemano 20140829 */
 .linkflairlabel { max-width: 100%; }
 .linkflair-discussion .linkflairlabel {
 background-color: #C1F8A5;
@@ -150,117 +150,205 @@ html:lang(mo) .link:not(.linkflair-mod) {
     display: none    }
 html:lang(re) .link:not(.linkflair-reject) {
     display: none    }
-.side a[href*='#di'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #C1F8A5;}
-.side a[href*='#ad'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #94FF9D;}
-.side a[href*='#qh'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #66FFA3;}
-.side a[href*='#ss'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #D28AFF;}
-.side a[href*='#rh'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #FFB361;}
-.side a[href*='#ra'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #FF8652;}
-.side a[href*='#wc'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #C0EDF2;}
-.side a[href*='#ab'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    color:#ffffff;
-    padding: 3px;
-    font-weight: bold;
-    background: #5A73F2;}
-.side a[href*='#mi'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #EBEBEB;}
-.side a[href*='#mo'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #EEFF38;}
-.side a[href*='#re'] { 
-    display: inline-block;
-    position: relative;
-    margin-top:0px;
-    border: 2px solid black;
-    font-size: 100%;
-    padding: 3px;
-    color: black;
-    font-weight: bold;
-    background: #FF0000;}
-/* End link flair - danodemano 20140828 */
+.side a[href*='#di'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #C1F8A5;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#ad'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #94FF9D;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#qh'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #66FFA3;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#ss'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #D28AFF;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#rh'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #FFB361;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#ra'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #FF8652;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#wc'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #C0EDF2;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#ab'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+color:#ffffff;
+padding: 3px;
+font-weight: bold;
+background: #5A73F2;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#mi'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #EBEBEB;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#mo'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #EEFF38;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+.side a[href*='#re'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #FF0000;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
+/* End link flair - danodemano 20140829 */
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
