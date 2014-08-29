@@ -16,7 +16,7 @@ content: " Turkers here now";
 }
 /* End danodemano edit 20140821 */
 /*Flair*/
-/* Begin link flair - danodemano 20140827 */
+/* Begin link flair - danodemano 20140828 */
 .linkflairlabel { max-width: 100%; }
 .linkflair-discussion .linkflairlabel {
 background-color: #C1F8A5;
@@ -118,6 +118,16 @@ border-color: #000000;
 border-width: 1px;
 border-radius: 3px;
 }
+.linkflair-reject .linkflairlabel {
+font:Arial;
+background-color: #FF0000;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
+}
 html:lang(di) .link:not(.linkflair-discussion) {
     display: none    }
 html:lang(ad) .link:not(.linkflair-advice) {
@@ -138,7 +148,9 @@ html:lang(mi) .link:not(.linkflair-misc) {
     display: none    }
 html:lang(mo) .link:not(.linkflair-mod) {
     display: none    }
-/* End link flair - danodemano 20140827 */
+html:lang(re) .link:not(.linkflair-reject) {
+    display: none    }
+/* End link flair - danodemano 20140828 */
 .flair-westindies {
     background: url(%%WestIndies%%) center left no-repeat !important
     }
