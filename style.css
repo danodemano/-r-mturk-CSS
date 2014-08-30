@@ -404,3 +404,6 @@ line-height: 20px;
     background: url(%%ireland%%) center left no-repeat !important
     }
 /* end flair */
+/* sidebar tweaks */
+.side table th, .side table td { border: 0px; }
+.side table { padding: 0px; margin: 0px; }
