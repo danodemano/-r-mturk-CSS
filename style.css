@@ -128,28 +128,40 @@ border-color: #000000;
 border-width: 1px;
 border-radius: 3px;
 }
+.linkflair-account .linkflairlabel {
+font:Arial;
+background-color: #568B6B;
+font-size: 11px;
+font-weight: bold;
+color:#000000;
+border-color: #000000;
+border-width: 1px;
+border-radius: 3px;
+}
 html:lang(di) .link:not(.linkflair-discussion) {
-    display: none    }
+display: none }
 html:lang(ad) .link:not(.linkflair-advice) {
-    display: none    }
+display: none }
 html:lang(qh) .link:not(.linkflair-qualhit) {
-    display: none    }
+display: none }
 html:lang(ss) .link:not(.linkflair-scriptssoftware) {
-    display: none    }
+display: none }
 html:lang(rh) .link:not(.linkflair-requestorhelp) {
-    display: none    }
+display: none }
 html:lang(ra) .link:not(.linkflair-requestorannouncement) {
-    display: none    }
+display: none }
 html:lang(wc) .link:not(.linkflair-watercooler) {
-    display: none    }
+display: none }
 html:lang(ab) .link:not(.linkflair-articleblog) {
-    display: none    }
+display: none }
 html:lang(mi) .link:not(.linkflair-misc) {
-    display: none    }
+display: none }
 html:lang(mo) .link:not(.linkflair-mod) {
-    display: none    }
+display: none }
 html:lang(re) .link:not(.linkflair-reject) {
-    display: none    }
+display: none }
+html:lang(ai) .link:not(.linkflair-account) {
+display: none }
 .side a[href*='#di'] {
 display: inline-block;
 position: relative;
@@ -348,62 +360,80 @@ width: 128px;
 margin:1px;
 line-height: 20px;
 }
+.side a[href*='#ai'] {
+display: inline-block;
+position: relative;
+margin-top:0px;
+border: 2px solid black;
+font-size: 100%;
+font:Arial;
+padding: 3px;
+color: black;
+font-weight: bold;
+background: #568B6B;
+text-align: center;
+border-radius: 7px;
+float:left;
+width: 128px;
+margin:1px;
+line-height: 20px;
+}
 /* End link flair - danodemano 20140829 */
 .flair-westindies {
-    background: url(%%WestIndies%%) center left no-repeat !important
-    }
+background: url(%%WestIndies%%) center left no-repeat !important
+}
 .flair-srilanka {
-    background: url(%%SriLanka%%) center left no-repeat !important
-    }
+background: url(%%SriLanka%%) center left no-repeat !important
+}
 .flair-india {
-    background: url(%%India%%) center left no-repeat !important
-    }
+background: url(%%India%%) center left no-repeat !important
+}
 .flair-canada {
-    background: url(%%Canada%%) center left no-repeat !important
-    }
+background: url(%%Canada%%) center left no-repeat !important
+}
 .flair-newzealand {
-    background: url(%%NewZealand%%) center left no-repeat !important
-    }
+background: url(%%NewZealand%%) center left no-repeat !important
+}
 .flair-bangladesh {
-    background: url(%%Bangladesh%%) center left no-repeat !important
-    }
+background: url(%%Bangladesh%%) center left no-repeat !important
+}
 .flair-netherlands {
-    background: url(%%Netherlands%%) center left no-repeat !important
-    }
+background: url(%%Netherlands%%) center left no-repeat !important
+}
 .flair-zimbabwe {
-    background: url(%%zimbabwe%%) center left no-repeat !important
-    }
+background: url(%%zimbabwe%%) center left no-repeat !important
+}
 .flair-scotland {
-    background: url(%%scotland%%) center left no-repeat !important
-    }
+background: url(%%scotland%%) center left no-repeat !important
+}
 .flair-australia {
-    background: url(%%australia%%) center left no-repeat !important
-    }
+background: url(%%australia%%) center left no-repeat !important
+}
 .flair-pakistan {
-    background: url(%%pakistan%%) center left no-repeat !important
-    }
+background: url(%%pakistan%%) center left no-repeat !important
+}
 .flair-kenya {
-    background: url(%%kenya%%)center left no-repeat !important
-    }
+background: url(%%kenya%%)center left no-repeat !important
+}
 .flair-safrica {
-    background: url(%%SouthAfrica%%) center left no-repeat !important
-    }
+background: url(%%SouthAfrica%%) center left no-repeat !important
+}
 .flair-england {
-    background: url(%%england%%) center left no-repeat !important
-    }
+background: url(%%england%%) center left no-repeat !important
+}
 .flair-wales {
-    background: url(%%wales%%) center left no-repeat !important
-    }
+background: url(%%wales%%) center left no-repeat !important
+}
 .flair-USA {
-    background: url(%%USA%%) center left no-repeat !important
-    }
+background: url(%%USA%%) center left no-repeat !important
+}
 .flair-afghanistan {
-    background: url(%%afghanistan%%) center left no-repeat !important
-    }
+background: url(%%afghanistan%%) center left no-repeat !important
+}
 .flair-ireland {
-    background: url(%%ireland%%) center left no-repeat !important
-    }
-/* end flair */
+background: url(%%ireland%%) center left no-repeat !important
+}
+
 /* sidebar tweaks */
 .side table th, .side table td { border: 0px; }
 .side table { padding: 0px; margin: 0px; }
